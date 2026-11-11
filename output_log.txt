@@ -1,0 +1,17 @@
+epoch 0 val MSE 9.013e-01
+epoch 25 val MSE 2.094e-02
+epoch 50 val MSE 9.191e-03
+epoch 75 val MSE 6.117e-03
+epoch 100 val MSE 3.721e-03
+epoch 125 val MSE 6.008e-03
+epoch 150 val MSE 2.024e-03
+epoch 175 val MSE 6.828e-03
+epoch 200 val MSE 2.627e-03
+epoch 225 val MSE 2.068e-03
+epoch 250 val MSE 8.780e-03
+epoch 275 val MSE 1.268e-03
+epoch 300 val MSE 1.735e-03
+epoch 325 val MSE 2.001e-03
+C_A_exit: R2=0.998961  RMSE=0.04811
+T_exit: R2=0.999406  RMSE=3.589
+NN 0.0030s | solve_ivp 5.16s | speedup 1703x
